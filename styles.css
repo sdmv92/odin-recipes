@@ -1,0 +1,9 @@
+button {
+    background-color: rgb(255, 255, 255);
+    height: 36px;
+}
+
+body {
+    background-color: lightpink;
+    font-family: sans-serif, serif;
+}
