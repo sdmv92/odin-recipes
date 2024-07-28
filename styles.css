@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+    font-size: 24px;
+    padding: 15px;
+}
+
+.names {
+    width: 30%;
+    margin: auto;
+}
+a{
+    color: rgb(156, 74, 74);
+}
+.color {
+    background-color: rgb(219, 219, 96);
+}
+.two {
+    margin: 15px 0;
+}
